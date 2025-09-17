@@ -187,6 +187,7 @@ The application is optimized for deployment on Vercel, Netlify, or any platform 
 ## 📄 License
 
 This project is part of a technical assessment and is not intended for commercial use.
+And not disclose personal Information also like user name , password, and other details
 
 ---
 
